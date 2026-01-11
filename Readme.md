@@ -30,9 +30,10 @@ This project was completed as an academic SQL project and is structured to demon
 ## 🗂 Project Structure
 ```Movie_Popularity_SQL_Project/
 │
-├── Queries.sql # All 30 SQL queries
-├── Readme.md # Project documentation
-└── result/ # Query outputs (screenshots)
+├── database
+├── Queries.sql
+├── Readme.md 
+└── result
   ├── Section_A_Basic_Queries/
   ├── Section_B_Intermediate_Queries/
   └── Section_C_Advanced_Queries/
